@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This a templet app for a simple emcomerce website for small buisness owners.
 
 ## Getting Started
 
